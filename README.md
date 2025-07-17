@@ -4,7 +4,7 @@ This is a simple to-do-list webpage
 
 ## Website Link-
 
- [To-Do-List](https://Manish201199.github.io/To-Do-List/)
+ [To-Do-List](https://github.com/Manishgatti/To-Do-List)
 
 ## Table of Contents-
 
@@ -18,7 +18,7 @@ This is a simple to-do-list webpage
 
 ## How to contribute `<a name="how-to-contribute"></a>`
 
-- Check [contributing.md file to contribute](https://github.com/Manish201199/To-Do-List/blob/main/CONTRIBUTING.md)
+- Check [contributing.md file to contribute](https://github.com/Manishgatti/To-Do-List/blob/main/CONTRIBUTING.md)
 - Star this repository.
 - Create an issue with the description of how you want to contribute to this project.
 - Wait to be assigned.
@@ -28,7 +28,7 @@ This is a simple to-do-list webpage
 - Pull request should have a screenshot of the changes you have made.
 - Wait for review.
 
-For contributing guidelines and standards, visit [contributing.md](https://github.com/Manish201199/To-Do-List/blob/main/CONTRIBUTING.md)
+For contributing guidelines and standards, visit [contributing.md](https://github.com/Manishgatti/To-Do-List/blob/main/CONTRIBUTING.md)
 
 ## 😎 Our Logo `<a name = "logo"></a>`
 
@@ -52,7 +52,7 @@ For any concerns contact me here: - `<br>`
 
 To run this website in a Docker container, follow these steps:
 
-Clone this repo at : `https://github.com/Manish201199/To-Do-List.git`
+Clone this repo at : `https://github.com/Manishgatti/To-Do-List.git`
 
 Build the Docker image: docker build -t `<your-image-name>` .
 
@@ -65,7 +65,7 @@ You can access your website at: `http://localhost:8080`
 <table align="center">
 <tr>
 <td>
-<a href="https://github.com/Manish201199/To-Do-List/graphs/contributors" align="center">
+<a href="https://github.com/Manishgatti/To-Do-List/graphs/contributors" align="center">
   <img src="https://contrib.rocks/image?repo=Manish201199/To-Do-List" /> 
 </a>
 </td>
