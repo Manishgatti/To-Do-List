@@ -66,7 +66,7 @@ You can access your website at: `http://localhost:8080`
 <tr>
 <td>
 <a href="https://github.com/Manishgatti/To-Do-List/graphs/contributors" align="center">
-  <img src="https://contrib.rocks/image?repo=Manish201199/To-Do-List" /> 
+ 
 </a>
 </td>
 </tr>
